@@ -148,8 +148,11 @@ Design an experiment to test plant growth.
 - Add unit tests for preprocessing and prediction utilities
 - Add confusion matrix and EDA images directly to this README
 
-## Author
+## Authors
 
-Built by **maneeswar06**.
+Built with teamwork by:
+
+- **Purnithaa B R**
+- **Maneeswar KG**
 
 If this project helped you, consider giving the repo a star.
